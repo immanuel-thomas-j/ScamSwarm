@@ -1,0 +1,60 @@
+{
+  "timestamp": "2026-10-22T07:37:33.422Z",
+  "datasetSize": 40,
+  "tiers": [
+    {
+      "tierKey": "tier1",
+      "name": "1. Local Heuristics Baseline",
+      "tp": 10,
+      "fp": 0,
+      "tn": 20,
+      "fn": 10,
+      "accuracy": 75,
+      "precision": 100,
+      "recall": 50,
+      "specificity": 100,
+      "f1Score": 66.7,
+      "fpr": 0,
+      "p50Latency": 0,
+      "p95Latency": 1,
+      "evidenceCoverage": 60,
+      "failureRecovery": 100
+    },
+    {
+      "tierKey": "tier2",
+      "name": "2. Heuristics + Threat Intelligence",
+      "tp": 13,
+      "fp": 1,
+      "tn": 19,
+      "fn": 7,
+      "accuracy": 80,
+      "precision": 92.9,
+      "recall": 65,
+      "specificity": 95,
+      "f1Score": 76.5,
+      "fpr": 5,
+      "p50Latency": 0,
+      "p95Latency": 1,
+      "evidenceCoverage": 65,
+      "failureRecovery": 100
+    },
+    {
+      "tierKey": "tier3",
+      "name": "3. Full Evidence-First Swarm",
+      "tp": 12,
+      "fp": 2,
+      "tn": 18,
+      "fn": 8,
+      "accuracy": 75,
+      "precision": 85.7,
+      "recall": 60,
+      "specificity": 90,
+      "f1Score": 70.6,
+      "fpr": 10,
+      "p50Latency": 1798,
+      "p95Latency": 9255,
+      "evidenceCoverage": 100,
+      "failureRecovery": 100
+    }
+  ]
+}

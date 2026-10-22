@@ -1,0 +1,242 @@
+[
+  {
+    "id": "SCAM-001",
+    "category": "Phishing & KYC Suspension",
+    "groundTruth": "SCAM",
+    "input": "Dear SBI customer, your YONO account will be blocked today due to pending KYC update. Click immediately to complete Pan verification: http://sbi-kyc-verify-portal.top"
+  },
+  {
+    "id": "SCAM-002",
+    "category": "UPI Advance-Fee Fraud",
+    "groundTruth": "SCAM",
+    "input": "Congratulations! You won ₹25,00,000 in KBC Lottery. To claim your cash prize, pay ₹2,500 registration charge to lottery-claim@ybl immediately."
+  },
+  {
+    "id": "SCAM-003",
+    "category": "Electricity Bill Threat",
+    "groundTruth": "SCAM",
+    "input": "Dear consumer, your electricity power supply will be disconnected tonight at 9:30 PM from the main sub-station because your previous month bill was not updated. Call electricity officer at 9876543210 or pay via http://power-bill-quickpay.xyz"
+  },
+  {
+    "id": "SCAM-004",
+    "category": "Telegram Part-Time Job Scam",
+    "groundTruth": "SCAM",
+    "input": "Earn ₹5,000 to ₹10,000 daily from home! Simple YouTube video like and subscribe job. Daily payouts directly to your bank account. Contact manager on Telegram: https://t.me/quickcash_tasks_india"
+  },
+  {
+    "id": "SCAM-005",
+    "category": "Digital Arrest / Extortion",
+    "groundTruth": "SCAM",
+    "input": "Urgent notification from Mumbai Cyber Police / CBI. An illegal narcotics package addressed in your name has been seized by customs. You are under digital arrest. Transfer ₹50,000 bail bond verification deposit immediately to avoid armed arrest."
+  },
+  {
+    "id": "SCAM-006",
+    "category": "SIM Card 5G Upgrade / eSIM Trap",
+    "groundTruth": "SCAM",
+    "input": "Jio Alert: Your SIM card will be deactivated within 2 hours. Convert 4G to 5G instantly without visiting store. Send eSIM confirmation code or click http://jio-5g-upgrade-portal.tk"
+  },
+  {
+    "id": "SCAM-007",
+    "category": "Income Tax Refund Lure",
+    "groundTruth": "SCAM",
+    "input": "Income Tax Department Notice: An excess tax refund of ₹38,490 has been approved for your account. Please confirm your bank account number and debit card CVV at http://incometax-refund-claim.online"
+  },
+  {
+    "id": "SCAM-008",
+    "category": "Credit Card Reward Expiry Phishing",
+    "groundTruth": "SCAM",
+    "input": "Dear HDFC Customer, your 12,450 reward points worth ₹9,960 are expiring today! Redeem points into cash immediately at http://hdfcbank-rewards-portal.top"
+  },
+  {
+    "id": "SCAM-009",
+    "category": "FedEx Customs Parcel Ransom",
+    "groundTruth": "SCAM",
+    "input": "FedEx Express: Parcel #FDX-99482 held at Mumbai Airport customs due to unpaid clearing customs duties of ₹4,200. Send payment to customs.clearance@icici or package will be destroyed."
+  },
+  {
+    "id": "SCAM-010",
+    "category": "Fake Loan Approval Advance Fee",
+    "groundTruth": "SCAM",
+    "input": "Congratulations! Your personal loan of ₹5,00,000 has been sanctioned at 2% annual interest with zero collateral. Pay processing fee of ₹1,999 to loanapproval@paytm to receive instant disbursement."
+  },
+  {
+    "id": "SCAM-011",
+    "category": "Google Account Phishing",
+    "groundTruth": "SCAM",
+    "input": "Google Security Warning: Someone just attempted to access your Gmail account from Moscow, Russia. If this was not you, secure your credentials immediately: https://google-security-verify-password.com/auth"
+  },
+  {
+    "id": "SCAM-012",
+    "category": "OLX Buyer QR Code Refund Trap",
+    "groundTruth": "SCAM",
+    "input": "I am ready to buy your used sofa on OLX. I am an army officer and cannot visit in person. I have generated a UPI collect request for ₹15,000. Just enter your 6-digit UPI PIN to receive the money into your bank."
+  },
+  {
+    "id": "SCAM-013",
+    "category": "Sextortion / Webcam Extortion",
+    "groundTruth": "SCAM",
+    "input": "I have compromised your device through malicious spyware and recorded video footage of you browsing adult websites. Send 0.05 Bitcoin to 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa within 24 hours or I will forward the video to all your Facebook contacts."
+  },
+  {
+    "id": "SCAM-014",
+    "category": "Crypto Doubler Scheme",
+    "groundTruth": "SCAM",
+    "input": "Official Elon Musk Tesla giveaway! Deposit any amount of ETH or BTC to our smart contract and receive 200% back immediately. Limited time event: http://tesla-eth-giveaway.buzz"
+  },
+  {
+    "id": "SCAM-015",
+    "category": "Tech Support Scam",
+    "groundTruth": "SCAM",
+    "input": "Microsoft Windows Defender Alert: CRITICAL SYSTEM ERROR 0x80070422. Your computer has been locked due to illegal trojan activity. Do not shut down your PC. Call Windows Toll-Free Support +1-888-555-0199 immediately for remote repair."
+  },
+  {
+    "id": "SCAM-016",
+    "category": "Aadhaar Biometric Freeze",
+    "groundTruth": "SCAM",
+    "input": "UIDAI Emergency: Your Aadhaar card has been linked with suspicious money laundering transactions and will be blocked across all banks. Update biometric verification now at http://uidai-aadhaar-update.online"
+  },
+  {
+    "id": "SCAM-017",
+    "category": "Traffic Challan Urgency Phishing",
+    "groundTruth": "SCAM",
+    "input": "Traffic Police Notice: Vehicle KA-01-AB-1234 has 3 pending over-speeding e-challans amounting to ₹3,500. Court summons issued for non-payment. Pay now to avoid vehicle seizure: http://echallan-parivahan-pay.site"
+  },
+  {
+    "id": "SCAM-018",
+    "category": "Fake WhatsApp Gold Upgrade",
+    "groundTruth": "SCAM",
+    "input": "Exclusive invite: WhatsApp Gold version is finally launched! Download hidden premium features, video call 100 people, customize themes. Download official APK: http://whatsapp-gold-update.xyz"
+  },
+  {
+    "id": "SCAM-019",
+    "category": "Spin-to-Win Cashback Trap",
+    "groundTruth": "SCAM",
+    "input": "You have won a free scratch card worth ₹4,999 on PhonePe! Scratch here to claim: http://phonepe-rewards-claim.top and enter your UPI PIN to credit your balance."
+  },
+  {
+    "id": "SCAM-020",
+    "category": "Unauthorized Card Debit Panic Bait",
+    "groundTruth": "SCAM",
+    "input": "ALERT: Your credit card was charged ₹78,990 at Apple Store Dubai. If you did NOT authorize this transaction, click immediately to cancel and block card: http://bank-card-security-cancel.xyz"
+  },
+  {
+    "id": "LEGIT-001",
+    "category": "Bank 2FA OTP Alert",
+    "groundTruth": "LEGITIMATE",
+    "input": "489201 is your one-time password (OTP) for transaction of INR 1,450.00 at Swiggy using your HDFC Bank Debit card ending in 4102. Never share this OTP with anyone, including bank staff."
+  },
+  {
+    "id": "LEGIT-002",
+    "category": "Airline Flight Confirmation",
+    "groundTruth": "LEGITIMATE",
+    "input": "IndiGo booking confirmed: PNR 6E-8472. Flight 6E 214 from Delhi (DEL) to Bengaluru (BLR) departs at 14:30 on 25-Nov. Terminal 3. Web check-in opens 48 hours prior to departure at https://www.goindigo.in"
+  },
+  {
+    "id": "LEGIT-003",
+    "category": "Amazon Order Dispatch",
+    "groundTruth": "LEGITIMATE",
+    "input": "Your Amazon order #402-8472918-1928472 has been dispatched. Expected delivery by tomorrow 8 PM. Track your package: https://www.amazon.in/progress-tracker/package"
+  },
+  {
+    "id": "LEGIT-004",
+    "category": "Electric Utility Bill Receipt",
+    "groundTruth": "LEGITIMATE",
+    "input": "BESCOM: Payment of Rs. 1,840 for Account ID 8839201 received with thanks on 14-Oct-2026. Ref: TXN9982738. View your billing history on https://bescom.karnataka.gov.in"
+  },
+  {
+    "id": "LEGIT-005",
+    "category": "Uber Ride Receipt",
+    "groundTruth": "LEGITIMATE",
+    "input": "Your Tuesday morning trip with Uber. Total fare: ₹342.00 paid via UPI. Driver: Ramesh (KA-03-MM-4412). Thanks for riding with Uber."
+  },
+  {
+    "id": "LEGIT-006",
+    "category": "Google Calendar Invite",
+    "groundTruth": "LEGITIMATE",
+    "input": "Google Calendar: Invitation for 'Q4 Sprint Planning' on Friday, Oct 24, 2026 10:00am - 11:30am (IST). Organizer: Priya Sharma. Video call: https://meet.google.com/xyz-qwer-tyu"
+  },
+  {
+    "id": "LEGIT-007",
+    "category": "Doctor Appointment Reminder",
+    "groundTruth": "LEGITIMATE",
+    "input": "Appointment Reminder: Your consultation with Dr. Arvind Menon is scheduled for tomorrow at 4:30 PM at Apollo Clinic Indiranagar. Please arrive 15 minutes before time."
+  },
+  {
+    "id": "LEGIT-008",
+    "category": "Credit Card Monthly Statement",
+    "groundTruth": "LEGITIMATE",
+    "input": "ICICI Bank: e-Statement for your Credit Card ending in 8910 for Sep 2026 has been generated. Total Amount Due: INR 14,290.00. Payment Due Date: 05-Nov-2026."
+  },
+  {
+    "id": "LEGIT-009",
+    "category": "Salary Credit Notification",
+    "groundTruth": "LEGITIMATE",
+    "input": "Salary credit: Account XX4928 credited with INR 1,25,000.00 on 30-Sep-2026 by NEFT-Infosys Tech Ltd. Available balance: INR 1,84,230.12."
+  },
+  {
+    "id": "LEGIT-010",
+    "category": "Netflix Subscription Renewal",
+    "groundTruth": "LEGITIMATE",
+    "input": "Netflix: We have successfully billed your Visa card ending in 3301 for INR 649 for your Premium Ultra HD plan. Next billing date: November 20, 2026."
+  },
+  {
+    "id": "LEGIT-011",
+    "category": "Mutual Fund SIP Confirmation",
+    "groundTruth": "LEGITIMATE",
+    "input": "Zerodha Coin: Your monthly SIP of Rs. 5,000 in Parag Parikh Flexi Cap Fund (Direct-Growth) has been executed successfully. Units allotted: 64.21 at NAV 77.87."
+  },
+  {
+    "id": "LEGIT-012",
+    "category": "Flipkart Delivery Notification",
+    "groundTruth": "LEGITIMATE",
+    "input": "Flipkart Delivery: Your item 'Logitech Wireless Mouse' is out for delivery today. Delivery agent: Manoj. Share delivery PIN 5429 with agent upon receiving product."
+  },
+  {
+    "id": "LEGIT-013",
+    "category": "Dinner Table Reservation",
+    "groundTruth": "LEGITIMATE",
+    "input": "Zomato Dining: Table for 4 confirmed at Toit Brewpub, Indiranagar for Saturday, 8:00 PM. Booking ID: ZOM-99214. Enjoy your meal!"
+  },
+  {
+    "id": "LEGIT-014",
+    "category": "School Fee Receipt",
+    "groundTruth": "LEGITIMATE",
+    "input": "Delhi Public School: Term 2 fee payment of Rs. 42,000 for Student Aryan Verma (Class 8-B) received successfully. Receipt No: DPS-2026-9938."
+  },
+  {
+    "id": "LEGIT-015",
+    "category": "Peer-to-Peer UPI Payment Alert",
+    "groundTruth": "LEGITIMATE",
+    "input": "Dear customer, your A/C ending in 5512 is credited by Rs. 850.00 on 19-Oct-26 by Rohan Gupta via UPI ref 429188472911."
+  },
+  {
+    "id": "EDGE-001",
+    "category": "Benign Short URL Link",
+    "groundTruth": "LEGITIMATE",
+    "input": "Hi everyone, here is the shared Google Doc for our hackathon project presentation slides: https://bit.ly/3HackathonNotes Please review before 5 PM."
+  },
+  {
+    "id": "EDGE-002",
+    "category": "Retail Brand Promo with Coupon Code",
+    "groundTruth": "LEGITIMATE",
+    "input": "Myntra Big Fashion Festival: Flat 40% OFF on Nike, Puma & Adidas sneakers! Use coupon code FESTIVE40 at checkout on the Myntra app or https://www.myntra.com. Reply STOP to opt out."
+  },
+  {
+    "id": "EDGE-003",
+    "category": "Urgent Workplace Office Memo",
+    "groundTruth": "LEGITIMATE",
+    "input": "URGENT TEAM NOTICE: Please submit your final slide deck for tomorrow's client executive review by 6:00 PM today without fail. Ping me on Slack if you need an extension."
+  },
+  {
+    "id": "EDGE-004",
+    "category": "Authentic Utility Collect Request",
+    "groundTruth": "LEGITIMATE",
+    "input": "Tata Power bill payment request of Rs. 2,340 has been sent to your UPI app from verified biller tatapower@icici. Check your electricity consumer account number before approving."
+  },
+  {
+    "id": "EDGE-005",
+    "category": "Bank Branch Relocation Advisory",
+    "groundTruth": "LEGITIMATE",
+    "input": "State Bank of India Advisory: Our MG Road Bengaluru branch is relocating to 5th Block Koramangala starting 1st November. No action is required on your account. IFSC code remains unchanged."
+  }
+]

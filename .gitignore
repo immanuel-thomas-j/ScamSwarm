@@ -1,0 +1,41 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+.firebase/
+
+# Environment variables - never commit secrets
+.env
+.env.*
+!.env.example
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Scratch & presentation builder tools
+test_tmp.pptx
+presentation_assets/
+generate_deck.py
+capture_slides.js
+build_final_pdf.py
+build_final_pptx.py
+presentation/
+Scam_Swarm_PPT_Notes.md
+Scam_Swarm_RepoReboot_26.pptx
